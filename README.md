@@ -2,9 +2,7 @@
 
 building things that work.
 
-- luau / roblox systems
-- html / web
-- mostly private work
+luau / roblox systems — html / web — mostly private work
 
 ---
 
